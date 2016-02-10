@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40304ucmf_7_0008.png"; bbox 0 0 2341 3336; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 509 1166 861">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 509 1166 861">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 509 1166 861; baseline -0.014 -53"><span class='ocrx_word' id='word_1_1' title='bbox 186 513 816 861; x_wconf 65' lang='lat' dir='ltr'>Sohund,</span> <span class='ocrx_word' id='word_1_2' title='bbox 886 509 1166 799; x_wconf 82' lang='lat' dir='ltr'>Seb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 182 1431 1171 1717">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 182 1431 1171 1717">
+     <span class='ocr_line' id='line_1_2' title="bbox 182 1431 1171 1717; baseline -0.027 -3"><span class='ocrx_word' id='word_1_3' title='bbox 182 1431 1025 1717; x_wconf 77' lang='lat' dir='ltr'>Dissertatio</span> <span class='ocrx_word' id='word_1_4' title='bbox 1169 1569 1171 1687; x_wconf 42' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 187 1887 1159 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 187 1887 1159 2175">
+     <span class='ocr_line' id='line_1_3' title="bbox 187 1887 1159 2175; baseline -0.012 1"><span class='ocrx_word' id='word_1_5' title='bbox 187 1892 360 2175; x_wconf 83' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_6' title='bbox 421 1887 1159 2175; x_wconf 78' lang='lat' dir='ltr'>didrachm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1176 3336">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1176 3336">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1176 3336; baseline 0 1"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1176 3336; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 67 2807 1131 3179">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 67 2807 1131 3179">
+     <span class='ocr_line' id='line_1_5' title="bbox 67 2807 1131 3179; baseline -0.004 -84"><span class='ocrx_word' id='word_1_8' title='bbox 67 2807 70 2812; x_wconf 66' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 182 2808 1131 3179; x_wconf 78' lang='lat' dir='ltr'>Argentorati‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
